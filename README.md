@@ -98,7 +98,7 @@ Music I listen to while coding:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xxhiroking&show_icons=true&theme=tokyonight"/>
 
 </p>
 
@@ -108,7 +108,7 @@ Music I listen to while coding:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxhiroking&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -118,7 +118,7 @@ Music I listen to while coding:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxhiroking&theme=tokyo-night"/>
 
 </p>
 
@@ -128,7 +128,7 @@ Music I listen to while coding:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/xxhiroking/xxhiroking/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
