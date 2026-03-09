@@ -2,14 +2,14 @@
 
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
 
-# 👋 Yo! I'm Luis Martín Reyes
+# 👋 Yo! I'm Luis Martín
 
 💻 Software Engineer  
 🏦 Banking Systems Developer  
 ⚙️ Batch Processing Specialist  
 🔥 Vibe Coding Enthusiast  
 🎌 Anime Enjoyer  
-🎧 Rap Listener While Coding  
+🎧 Rap Listener  
 
 </div>
 
@@ -17,13 +17,13 @@
 
 # 🧠 About Me
 
-I’m a developer passionate about **building reliable systems and learning new technologies**.
+I’m a developer who enjoys building **robust and reliable systems**.
 
-Most of my professional experience is focused on **banking systems**, where **performance, reliability and data integrity** are critical.
+My professional experience is focused on **banking systems**, where **performance, reliability and data integrity** are critical.
 
-I enjoy combining **enterprise backend engineering** with **modern web development**.
+I specialize in **backend engineering and batch processing systems**, while also exploring modern technologies like **React and Node.js**.
 
-When I'm not working you will probably find me:
+When I'm not coding you will probably find me:
 
 🎧 Listening to rap  
 🎌 Watching anime  
@@ -38,7 +38,7 @@ When I'm not working you will probably find me:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python"/>
 
 </p>
 
@@ -46,7 +46,7 @@ When I'm not working you will probably find me:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css"/>
 
 </p>
 
@@ -54,9 +54,9 @@ When I'm not working you will probably find me:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
 <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle"/>
+
+<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge"/>
 
 </p>
 
@@ -64,7 +64,7 @@ When I'm not working you will probably find me:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=linux,git,bash,docker" />
+<img src="https://skillicons.dev/icons?i=linux,git,bash"/>
 
 </p>
 
@@ -72,12 +72,12 @@ When I'm not working you will probably find me:
 
 # ⚡ What I Like Building
 
-- Banking backend systems  
-- Batch processing pipelines  
-- Automation scripts  
-- Backend APIs  
-- Web applications  
-- Experimental side projects  
+- Banking backend systems
+- Batch processing pipelines
+- Automation scripts
+- Backend APIs
+- Web applications
+- Experimental side projects
 
 ---
 
@@ -87,10 +87,10 @@ When I'm not working you will probably find me:
 
 Music I listen to while coding:
 
-- Rap  
-- Hip Hop  
-- Lo-fi beats  
-- Instrumentals  
+- Rap
+- Hip Hop
+- Lo-fi beats
+- Instrumentals
 
 ---
 
@@ -124,30 +124,11 @@ Music I listen to while coding:
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/xxhiroking/xxhiroking/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🔥 Current Focus
-
-- Backend architecture
-- System reliability
-- Learning modern full-stack tools
-- Building useful side projects
-
----
-
 # 🧩 Coding Philosophy
 
 
-Build systems that last
-Keep code simple
+Keep systems simple
+Write code that survives production
 Automate repetitive tasks
 Never stop learning
 
@@ -157,7 +138,7 @@ Never stop learning
 # 🎌 Fun Facts
 
 - Anime + coding = perfect combo
-- Rap music helps me stay in the coding flow
+- Rap music keeps my coding flow
 - I enjoy experimenting with new technologies
 - Late night coding sessions hit different
 
